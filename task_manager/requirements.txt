@@ -1,0 +1,8 @@
+Flask
+SQLAlchemy
+psycopg2-binary
+Flask-WTF
+Flask-Session
+requests
+Flask-SQLAlchemy
+# pip install -r requirements.txt
